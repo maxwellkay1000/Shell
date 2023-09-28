@@ -3,7 +3,6 @@
 A functioning command line shell, written in C. 
 This project works like the UNIX shell, only much simpler. Only three built-in commands — exit, cd and pwd — are implemented. 
 Command line is able to execute commands with multiple arguments and read execute multiple commands from one input. CD, LS, PWD, and EXIT were all manually coded in.
-We were asked to complete this project on a time crunch and were not graded on style. The code is thus exceptionally hard to read. 
 
 ### Multi-Threading and fork() in C
 To run commands, I created child process and waited for them to complete. 
