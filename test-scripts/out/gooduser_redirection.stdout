@@ -1,0 +1,5 @@
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/ > gooduser_redirection_rd_1
+An error has occurred
+ls /stage/classes/archive/2014/spring/15400/p4shell/mpich-3.1/ -l > gooduser_redirection_rd_2
+An error has occurred
+exit
